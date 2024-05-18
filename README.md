@@ -8,3 +8,6 @@
 
 Το υλικό στο αποθετήριο αυτό δημιουργήθηκε από την Άγγελικη Συροπούλου.
 
+## Άδεια
+
+Το υλικό αυτό διατίθεται υπό την άδεια [Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Greece License (CC BY-NC-SA 3.0 GR)](https://creativecommons.org/licenses/by-nc-sa/3.0/gr/). Ανατρέξτε στο αρχείο LICENSE για περισσότερες πληροφορίες.
