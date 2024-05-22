@@ -6,6 +6,10 @@
 
 ## Περιεχόμενα
 
+- README.md: Πληροφορίες για το αποθετήριο.
+- LICENSE: Πληροφορίες για την άδεια χρήσης.
+- QR1.png: QR code που οδηγεί σε άσκηση Drag Text.
+- QR2.png: QR code που οδηγεί σε αρχείο τρισδιάστατου μοντέλου.
 - [Το αγόρι με την πίτσα.h5p](https://content.e-me.edu.gr/wp-admin/admin-ajax.php?action=h5p_embed&id=1357981)
 - [Το ηλιακό μας σύστημα.h5p](https://content.e-me.edu.gr/wp-admin/admin-ajax.php?action=h5p_embed&id=1357606)
 - [Χάρτης κρυμμένου πολλαπλασιασμού.h5p](https://content.e-me.edu.gr/wp-admin/admin-ajax.php?action=h5p_embed&id=1357969)
