@@ -13,7 +13,9 @@
 - [Τα συναισθήματα του Οδυσσέα στο ταξίδι του.h5p](https://content.e-me.edu.gr/wp-admin/admin-ajax.php?action=h5p_embed&id=1357747)
 - `README.md`: Πληροφορίες για το αποθετήριο.
 - `LICENSE`: Πληροφορίες για την άδεια χρήσης.
+- 'QR1.png': QR code που οδηγεί σε άσκηση Drag Text
 - ![QR1](QR1.png)
+- 'QR2.png': QR code που οδηγεί σε αρχείο τρισδιάστατου μοντέλου
 - ![QR2](QR2.png)
 
 
